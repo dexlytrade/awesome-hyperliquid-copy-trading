@@ -58,6 +58,7 @@ Self-custodial apps and services to follow or mirror traders. Your keys / funds 
 | **HyperDash — Copytrade** | Web terminal | Ranks traders by a "Copy Score" and lets you mirror positions from an analytics terminal | 🟢 Live | [hyperdash.com/copytrading](https://hyperdash.com/copytrading) |
 | **pvp.trade** 🤖 | Telegram bot | Trade Hyperliquid perps/spot from a Telegram group; share, copy and counter-trade friends | 🟢 Live | [pvp.trade](https://pvp.trade/) |
 | **Hypercopy** 🔓📖 | Browser tool | "Hyper stupid" in-browser copy trader; you supply your own API key, it stops when you close the tab | 🟢 Live | [hypercopy.xyz](https://hypercopy.xyz/) |
+| **GDEX** 🤖 | Web terminal + agent tools | Multi-chain trading terminal by Gemach DAO; mirror Hyperliquid perp traders picked by volume or PnL with fixed or proportional sizing, optional opposite-direction copying and TP/SL; trades run from GDEX managed wallets. Open-source MCP server and agent skills for AI agents | 🟢 Live | [gdex.pro](https://gdex.pro/) |
 
 > Building a Hyperliquid copy-trading app? Open a PR — accurate, neutral descriptions only.
 
