@@ -84,6 +84,7 @@ Tools to research a trader or vault **before** you follow — the "verify" half 
 - [**HypurrScan**](https://hypurrscan.io/) — Hyperliquid explorer & dashboard for on-chain activity.
 - [**ASXN Hyperliquid Dashboard**](https://hyperscreener.asxn.xyz/) — Perps, spot, HIP-3, revenue and top-trader analytics.
 - [**VaultVision**](https://vaultvision.tech/vaults/scanner) — Read-only Hyperliquid vault scanner for risk scores, drawdown, TVL, positions, flows, deposit status, entry context and alerts; supports research and manual mirroring, not automated copy trading.
+- [**Hyperliquid Discipline Report**](https://tradecopilot.app/hyperliquid-discipline-report) — Check a trader's habits before you copy them: revenge trading, sizing up after losses, letting losers run, overtrading and fee drag, measured from the wallet's public perp fills. Read-only; free account required.
 
 ---
 
