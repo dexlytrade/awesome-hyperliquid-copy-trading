@@ -83,6 +83,7 @@ Tools to research a trader or vault **before** you follow — the "verify" half 
 - [**HyperTracker**](https://hypertracker.io/) — Real-time wallet & whale tracker across 1.6M+ wallets, filterable leaderboard, read-only.
 - [**HypurrScan**](https://hypurrscan.io/) — Hyperliquid explorer & dashboard for on-chain activity.
 - [**ASXN Hyperliquid Dashboard**](https://hyperscreener.asxn.xyz/) — Perps, spot, HIP-3, revenue and top-trader analytics.
+- [**Swolecharts**](https://swolecharts.com/hyperliquid/whales) — Free, read-only Hyperliquid whale-position analytics, with wallet and vault research pages; no automated copy trading.
 - [**VaultVision**](https://vaultvision.tech/vaults/scanner) — Read-only Hyperliquid vault scanner for risk scores, drawdown, TVL, positions, flows, deposit status, entry context and alerts; supports research and manual mirroring, not automated copy trading.
 
 ---
