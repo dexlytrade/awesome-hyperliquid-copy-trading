@@ -58,6 +58,7 @@ Self-custodial apps and services to follow or mirror traders. Your keys / funds 
 | **HyperDash — Copytrade** | Web terminal | Ranks traders by a "Copy Score" and lets you mirror positions from an analytics terminal | 🟢 Live | [hyperdash.com/copytrading](https://hyperdash.com/copytrading) |
 | **pvp.trade** 🤖 | Telegram bot | Trade Hyperliquid perps/spot from a Telegram group; share, copy and counter-trade friends | 🟢 Live | [pvp.trade](https://pvp.trade/) |
 | **Hypercopy** 🔓📖 | Browser tool | "Hyper stupid" in-browser copy trader; you supply your own API key, it stops when you close the tab | 🟢 Live | [hypercopy.xyz](https://hypercopy.xyz/) |
+| **CopyHype** 🔓🤖 | Telegram Mini App | Copy active Hyperliquid traders in one tap from $2, or trade perps solo (crypto, stocks, gold, indices); free 7-day practice with play money; non-custodial wallet | 🟢 Live | [copyhype.family](https://copyhype.family/) |
 
 > Building a Hyperliquid copy-trading app? Open a PR — accurate, neutral descriptions only.
 
