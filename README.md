@@ -56,6 +56,7 @@ Self-custodial apps and services to follow or mirror traders. Your keys / funds 
 | --- | --- | --- | --- | --- |
 | **Dexly** 🔓 | Mobile app | Self-custodial iOS/Android app for Hyperliquid perps, spot, tokenized stocks & prediction markets, with copy trading | 🟢 Live | [dexly.trade](https://dexly.trade/) |
 | **HyperDash — Copytrade** | Web terminal | Ranks traders by a "Copy Score" and lets you mirror positions from an analytics terminal | 🟢 Live | [hyperdash.com/copytrading](https://hyperdash.com/copytrading) |
+| **AlphaYou** 🔓 | Web app | Hyperliquid trader rankings and wallet mirroring through a trade-only agent; 0.05% per executed copied trade, no subscription or profit share | 🟢 Live | [app.alphayou.net](https://app.alphayou.net/hyperliquid-copy-trading) |
 | **pvp.trade** 🤖 | Telegram bot | Trade Hyperliquid perps/spot from a Telegram group; share, copy and counter-trade friends | 🟢 Live | [pvp.trade](https://pvp.trade/) |
 | **Hypercopy** 🔓📖 | Browser tool | "Hyper stupid" in-browser copy trader; you supply your own API key, it stops when you close the tab | 🟢 Live | [hypercopy.xyz](https://hypercopy.xyz/) |
 | **WakeTrades** 🔓🤖 | Web app + Telegram bot + API | Copies the traders you choose onto your own Hyperliquid account, 24/7, at one of four exposure levels; the agent key can't withdraw; flat USDC subscription, 0% per copied order; also copies xyz stock, index and commodity perps; AI agents can run it with no human step (API, MCP server) | 🟢 Live | [waketrades.com](https://waketrades.com/) |
