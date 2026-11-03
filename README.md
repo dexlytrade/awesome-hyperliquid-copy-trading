@@ -60,6 +60,7 @@ Self-custodial apps and services to follow or mirror traders. Your keys / funds 
 | **pvp.trade** 🤖 | Telegram bot | Trade Hyperliquid perps/spot from a Telegram group; share, copy and counter-trade friends | 🟢 Live | [pvp.trade](https://pvp.trade/) |
 | **Hypercopy** 🔓📖 | Browser tool | "Hyper stupid" in-browser copy trader; you supply your own API key, it stops when you close the tab | 🟢 Live | [hypercopy.xyz](https://hypercopy.xyz/) |
 | **WakeTrades** 🔓🤖 | Web app + Telegram bot + API | Copies the traders you choose onto your own Hyperliquid account, 24/7, at one of four exposure levels; the agent key can't withdraw; flat USDC subscription, 0% per copied order; also copies xyz stock, index and commodity perps; AI agents can run it with no human step (API, MCP server) | 🟢 Live | [waketrades.com](https://waketrades.com/) |
+| **FiatBear** 🔓🤖 | Web app | Copies wallets you pick into your own account via an agent wallet, with position limits and public wallet audits | 🟢 Live | [fiatbear.com](https://fiatbear.com/) |
 
 > Building a Hyperliquid copy-trading app? Open a PR — accurate, neutral descriptions only.
 
