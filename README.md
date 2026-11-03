@@ -56,8 +56,10 @@ Self-custodial apps and services to follow or mirror traders. Your keys / funds 
 | --- | --- | --- | --- | --- |
 | **Dexly** 🔓 | Mobile app | Self-custodial iOS/Android app for Hyperliquid perps, spot, tokenized stocks & prediction markets, with copy trading | 🟢 Live | [dexly.trade](https://dexly.trade/) |
 | **HyperDash — Copytrade** | Web terminal | Ranks traders by a "Copy Score" and lets you mirror positions from an analytics terminal | 🟢 Live | [hyperdash.com/copytrading](https://hyperdash.com/copytrading) |
+| **AlphaYou** 🔓 | Web app | Hyperliquid trader rankings and wallet mirroring through a trade-only agent; 0.05% per executed copied trade, no subscription or profit share | 🟢 Live | [app.alphayou.net](https://app.alphayou.net/hyperliquid-copy-trading) |
 | **pvp.trade** 🤖 | Telegram bot | Trade Hyperliquid perps/spot from a Telegram group; share, copy and counter-trade friends | 🟢 Live | [pvp.trade](https://pvp.trade/) |
 | **Hypercopy** 🔓📖 | Browser tool | "Hyper stupid" in-browser copy trader; you supply your own API key, it stops when you close the tab | 🟢 Live | [hypercopy.xyz](https://hypercopy.xyz/) |
+| **WakeTrades** 🔓🤖 | Web app + Telegram bot + API | Copies the traders you choose onto your own Hyperliquid account, 24/7, at one of four exposure levels; the agent key can't withdraw; flat USDC subscription, 0% per copied order; also copies xyz stock, index and commodity perps; AI agents can run it with no human step (API, MCP server) | 🟢 Live | [waketrades.com](https://waketrades.com/) |
 | **FiatBear** 🔓🤖 | Web app | Copies wallets you pick into your own account via an agent wallet, with position limits and public wallet audits | 🟢 Live | [fiatbear.com](https://fiatbear.com/) |
 
 > Building a Hyperliquid copy-trading app? Open a PR — accurate, neutral descriptions only.
@@ -85,6 +87,8 @@ Tools to research a trader or vault **before** you follow — the "verify" half 
 - [**HypurrScan**](https://hypurrscan.io/) — Hyperliquid explorer & dashboard for on-chain activity.
 - [**ASXN Hyperliquid Dashboard**](https://hyperscreener.asxn.xyz/) — Perps, spot, HIP-3, revenue and top-trader analytics.
 - [**VaultVision**](https://vaultvision.tech/vaults/scanner) — Read-only Hyperliquid vault scanner for risk scores, drawdown, TVL, positions, flows, deposit status, entry context and alerts; supports research and manual mirroring, not automated copy trading.
+- [**HyperSonnar**](https://hypersonnar.fr/) — Ranks Hyperliquid wallets by a published copiability score (perp-only results, net winners, holding times a follower can keep up with); each wallet page shows PnL against net deposits and the account-level cushion before liquidation. Free analytics on public data; automated copy trading is not open to the public yet.
+- [**Hyperliquid Discipline Report**](https://tradecopilot.app/hyperliquid-discipline-report) — Check a trader's habits before you copy them: revenge trading, sizing up after losses, letting losers run, overtrading and fee drag, measured from the wallet's public perp fills. Read-only; free account required.
 
 ---
 
@@ -93,6 +97,7 @@ Tools to research a trader or vault **before** you follow — the "verify" half 
 - [**Vaults — Hyperliquid Docs**](https://hyperliquid.gitbook.io/hyperliquid-docs/hypercore/vaults) — How vaults, fees and deposits work.
 - [**Info endpoint — Hyperliquid API**](https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api/info-endpoint) — Read a user's fills, positions and vault details (read-only).
 - [**Hyperliquid Python SDK**](https://github.com/hyperliquid-dex/hyperliquid-python-sdk) — Official SDK, useful for building mirroring bots.
+- [**Hydromancer API**](https://docs.hydromancer.xyz/readme/builder-guides/copytrading-and-social-trading) — Paid Hyperliquid data API with trader leaderboards, batch position lookups and multi-wallet fill streams for copy-trading apps.
 
 ---
 
