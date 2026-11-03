@@ -93,6 +93,7 @@ Tools to research a trader or vault **before** you follow — the "verify" half 
 - [**Vaults — Hyperliquid Docs**](https://hyperliquid.gitbook.io/hyperliquid-docs/hypercore/vaults) — How vaults, fees and deposits work.
 - [**Info endpoint — Hyperliquid API**](https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api/info-endpoint) — Read a user's fills, positions and vault details (read-only).
 - [**Hyperliquid Python SDK**](https://github.com/hyperliquid-dex/hyperliquid-python-sdk) — Official SDK, useful for building mirroring bots.
+- [**Hydromancer API**](https://docs.hydromancer.xyz/readme/builder-guides/copytrading-and-social-trading) — Paid Hyperliquid data API with trader leaderboards, batch position lookups and multi-wallet fill streams for copy-trading apps.
 
 ---
 
