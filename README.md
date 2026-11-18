@@ -55,6 +55,7 @@ Self-custodial apps and services to follow or mirror traders. Your keys / funds 
 | Name | Type | Notable | Status | Link |
 | --- | --- | --- | --- | --- |
 | **Dexly** 🔓 | Mobile app | Self-custodial iOS/Android app for Hyperliquid perps, spot, tokenized stocks & prediction markets, with copy trading | 🟢 Live | [dexly.trade](https://dexly.trade/) |
+| **Perpex** 🔓🤖 | Mobile app + web | Self-custodial iOS/Android and web app for Hyperliquid perps and HIP-3 markets; analyze any wallet's PnL, win rate and drawdown, then copy it with size limits through an agent key that can't withdraw; rule-based bots with public paper results | 🟢 Live | [perpex.co](https://perpex.co/copy-trading) |
 | **HyperDash — Copytrade** | Web terminal | Ranks traders by a "Copy Score" and lets you mirror positions from an analytics terminal | 🟢 Live | [hyperdash.com/copytrading](https://hyperdash.com/copytrading) |
 | **AlphaYou** 🔓 | Web app | Hyperliquid trader rankings and wallet mirroring through a trade-only agent; 0.05% per executed copied trade, no subscription or profit share | 🟢 Live | [app.alphayou.net](https://app.alphayou.net/hyperliquid-copy-trading) |
 | **pvp.trade** 🤖 | Telegram bot | Trade Hyperliquid perps/spot from a Telegram group; share, copy and counter-trade friends | 🟢 Live | [pvp.trade](https://pvp.trade/) |
@@ -84,6 +85,7 @@ Run-it-yourself bots that mirror a target wallet into your own account (you prov
 Tools to research a trader or vault **before** you follow — the "verify" half of "trust, but verify".
 
 - [**HyperDash**](https://hyperdash.com/) — Analytics terminal: wallet cohorts, whale alerts, copy-score rankings.
+- [**Perpex wallet analysis**](https://perpex.co/copy-trading) — Wallet profiles for any Hyperliquid address with PnL, win rate, drawdown and open positions, before you copy.
 - [**HyperTracker**](https://hypertracker.io/) — Real-time wallet & whale tracker across 1.6M+ wallets, filterable leaderboard, read-only.
 - [**HypurrScan**](https://hypurrscan.io/) — Hyperliquid explorer & dashboard for on-chain activity.
 - [**ASXN Hyperliquid Dashboard**](https://hyperscreener.asxn.xyz/) — Perps, spot, HIP-3, revenue and top-trader analytics.
