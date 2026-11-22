@@ -91,6 +91,7 @@ Tools to research a trader or vault **before** you follow — the "verify" half 
 - [**HyperSonnar**](https://hypersonnar.fr/) — Ranks Hyperliquid wallets by a published copiability score (perp-only results, net winners, holding times a follower can keep up with); each wallet page shows PnL against net deposits and the account-level cushion before liquidation. Free analytics on public data; automated copy trading is not open to the public yet.
 - [**Hyperliquid Discipline Report**](https://tradecopilot.app/hyperliquid-discipline-report) — Check a trader's habits before you copy them: revenge trading, sizing up after losses, letting losers run, overtrading and fee drag, measured from the wallet's public perp fills. Read-only; free account required.
 - [**PerpGuard**](https://perpguard.com/) — Trims a leveraged Hyperliquid position before liquidation, including positions opened by a copy bot, through a trade-only agent wallet that can't withdraw. Disclosure: added by the PerpGuard team.
+- [**HL Risk Watch**](https://hl-risk-watch.pages.dev/) — Paste a lead trader's public address before you copy them to see distance to liquidation, margin usage and funding drag for each open position. Watch-only: no wallet connection or keys. Chinese/English UI. Disclosure: added by the Agent Arena Studio team (AI-built).
 
 ---
 
