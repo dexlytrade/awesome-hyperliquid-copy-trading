@@ -62,6 +62,7 @@ Self-custodial apps and services to follow or mirror traders. Your keys / funds 
 | **WakeTrades** 🔓🤖 | Web app + Telegram bot + API | Copies the traders you choose onto your own Hyperliquid account, 24/7, at one of four exposure levels; the agent key can't withdraw; flat USDC subscription, 0% per copied order; also copies xyz stock, index and commodity perps; AI agents can run it with no human step (API, MCP server) | 🟢 Live | [waketrades.com](https://waketrades.com/) |
 | **FiatBear** 🔓🤖 | Web app | Copies wallets you pick into your own account via an agent wallet, with position limits and public wallet audits | 🟢 Live | [fiatbear.com](https://fiatbear.com/) |
 | **Lucy Whale Radar** 🔓🤖 | Telegram bot + web | Chinese-language UI. Follow any Hyperliquid wallet and get a DM when it moves $100k+; one tap opens the same side in your own account via a trade-only agent key (can't withdraw). Optional TP/SL and auto-close when the leader closes. 0.03% builder fee per order, no subscription | 🟢 Live | [lucymade.com](https://lucymade.com/) |
+| **Perpex** 🔓 | Mobile app + web | Self-custodial iOS/Android and web app for Hyperliquid perps and HIP-3 markets; analyze any wallet's PnL, win rate and drawdown, then copy it with size limits through an agent key that can't withdraw | 🟢 Live | [perpex.co](https://perpex.co/copy-trading) |
 
 > Building a Hyperliquid copy-trading app? Open a PR — accurate, neutral descriptions only.
 
