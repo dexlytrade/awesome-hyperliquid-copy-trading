@@ -95,6 +95,7 @@ Tools to research a trader or vault **before** you follow — the "verify" half 
 - [**Hyperliquid Discipline Report**](https://tradecopilot.app/hyperliquid-discipline-report) — Check a trader's habits before you copy them: revenge trading, sizing up after losses, letting losers run, overtrading and fee drag, measured from the wallet's public perp fills. Read-only; free account required.
 - [**PerpGuard**](https://perpguard.com/) — Trims a leveraged Hyperliquid position before liquidation, including positions opened by a copy bot, through a trade-only agent wallet that can't withdraw. Disclosure: added by the PerpGuard team.
 - [**LabelYX**](https://labelyx.xyz/) — Free, read-only wallet research: PnL against net deposits, win rate, open positions with liquidation distance, and a money-flow graph of where a trader's funds came from, plus a trader leaderboard and vault pages. Disclosure: added by the LabelYX developer.
+- [**AlphaYou — Whale Tracker**](https://alphayou.net/hyperliquid/whales) — Free, read-only feed of Hyperliquid positions of $5M or more opened or flipped in the last 24 hours, with the wallet, size, leverage and time of each; plus 24/7 market pages for stock, oil and gold perps. Research only, no account needed. Disclosure: added by the AlphaYou team.
 
 ---
 
